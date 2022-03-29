@@ -1,0 +1,33 @@
+======================================================Boggle Rules======================================================
+
+Boggle Description
+The game of Boggle is played on a square board with random letters. The object is to find words formed on the
+board by contiguous sequences of letters. Letters are considered to be touching if they are horizontally, vertically,
+or diagonally adjacent.
+
+Selecting the Game Mode
+  1. SinglePlayer - You versus the CPU (Player 1 vs CPU)	
+  2. MultiPlayer - You versus a Friend (In-person, Player 1 vs Player 2)
+
+Setting the Options
+  1. Set minimum character length for valid words
+  2. Adjust the timer length (Default 15 seconds)
+  3. Exit the game
+
+Scoring
+  1. Based on the length of your selected word (# of characters), the number of points will be allocated.
+  2. Each additional character in a word is worth 1 point, e.g apple = 5 points while dog = 3 points
+
+In-Game Rules
+  1. Based on 50/50 odds Player 1 or Player 2/CPU will start the game
+  2. They will be provided the opportunity to find a word on the Boggle board within the time allocated
+  3. By pressing the button "Enter", the player will be able to check the validity of their word and earn points
+  4. By pressing the button "Pass", the player will forego their turn to the other player
+  5. If both players pass twice, the board will be shaken up
+  6. Default score to win is 61 points
+
+
+
+
+
+	
